@@ -2,7 +2,7 @@
 Highway Racer is a fun and easy-to-play 2D car racing game. As a player, your main objective will be to avoid colliding with other cars and survive for as long as you can. During your drive, you might come across several different power-ups. Collecting them will provide you with an advantage, but keep in mind: **all power-ups are temporary**, so you will mostly have to rely on your driving skills in order to survive!
 ### Are you prepared for the challenge? Play the game and find out!
 
-![menu-screen]https://github.com/ThiagoSKM/highway-racer/blob/main/assets/main-menu.png
+![menu-screen](https://github.com/ThiagoSKM/highway-racer/blob/main/assets/main-menu.png)
 
 # How to play
 ### Singleplayer mode:
