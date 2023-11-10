@@ -19,3 +19,13 @@ Highway Racer is a fun and easy-to-play 2D car racing game. As a player, your ma
 - **Player 2:** Use arrow keys to move your car.
 - In case one of the players crash, the other will be able to continue playing. In this mode, the main goal will be to **survive longer** than the other player.
 - Invite a friend to play with you, and see which one of you is the best driver!
+
+# Power-Ups
+- **Invincibility:** Corresponds to the BLUE power-up. Collecting it will grant you temporary invincibility.
+- **Slowing:** Corresponds to the GREEN power-up. Collecting it will temporarily slow down the cars around you.
+- **Shrinking:** Corresponds to the RED power-up. Collecting it will temporarily shrink the size of your car.
+- **Kill:** Corresponds to the PINK power-up. Collecting it will temporarily remove all the cars around you.
+
+# Thank you for reading. Enjoy the game!
+
+![menu-screen](https://github.com/ThiagoSKM/highway-racer/blob/main/assets/gameplay.png)
