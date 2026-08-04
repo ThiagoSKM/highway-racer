@@ -34,4 +34,4 @@ Highway Racer is a fun and easy-to-play 2D car racing game. As a player, your ma
 
 # Thank you for reading. Enjoy the game!
 
-![menu-screen](https://github.com/ThiagoSKM/highway-racer/blob/main/assets/preview.mp4)
+[▶ Watch the demo](https://github.com/ThiagoSKM/highway-racer/blob/main/assets/preview.mp4)
