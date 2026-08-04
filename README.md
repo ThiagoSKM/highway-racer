@@ -32,6 +32,7 @@ Highway Racer is a fun and easy-to-play 2D car racing game. As a player, your ma
 - To run the game, simply run the 'main.py' file via your preferred method, whether it's through the command line or through your favourite code editor/IDE.
 - Keep in mind that the different files are dependent on each other, so it is important to preserve the folder structure when running the game.
 
-# Thank you for reading. Enjoy the game!
+# Preview
+https://github.com/ThiagoSKM/highway-racer/blob/main/assets/preview.mp4](https://github.com/user-attachments/assets/1b8b92f7-4521-4760-9b31-06d6f8629169
 
-[▶ Watch the demo](https://github.com/ThiagoSKM/highway-racer/blob/main/assets/preview.mp4)
+# Thank you for reading. Enjoy the game!
